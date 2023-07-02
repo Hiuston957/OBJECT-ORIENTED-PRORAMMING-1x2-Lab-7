@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2 – Reading files. StreamReader class", "Exercise 2 – Reading files. StreamReader class\Exercise 2 – Reading files. StreamReader class.csproj", "{5DDC9E98-194E-4D38-BD47-7D17A7942602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 4 – Writing files. StreamWriter class", "Exercise 4 – Writing files. StreamWriter class\Exercise 4 – Writing files. StreamWriter class.csproj", "{4971AB64-0C7B-4EE5-9D8B-E73A7E30928B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DDC9E98-194E-4D38-BD47-7D17A7942602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDC9E98-194E-4D38-BD47-7D17A7942602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDC9E98-194E-4D38-BD47-7D17A7942602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDC9E98-194E-4D38-BD47-7D17A7942602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4971AB64-0C7B-4EE5-9D8B-E73A7E30928B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4971AB64-0C7B-4EE5-9D8B-E73A7E30928B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4971AB64-0C7B-4EE5-9D8B-E73A7E30928B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4971AB64-0C7B-4EE5-9D8B-E73A7E30928B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4491A2C-3C72-4798-A195-27FDBE6F58BB}
+	EndGlobalSection
+EndGlobal
